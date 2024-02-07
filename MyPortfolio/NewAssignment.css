@@ -1,0 +1,501 @@
+.HEXA {
+text-decoration: none;
+margin-left: 150px;
+}
+
+
+nav {
+    background-color: #0f1010cc;
+    height: 30px;
+    width: 100%;
+    position: fixed;
+    justify-content: space-between;
+    }
+
+    nav a {
+        color: white;
+        margin-left: 100px;
+        width: 100%;
+        text-decoration: none;
+    }
+
+    .fa-magnifying-glass {
+        color: #fff;
+        float: right;
+        font-size: 10px;
+        position: absolute;
+        width: 100%;
+        padding-left: 150px;
+        margin-top: 8px;
+    }
+
+    .fa-phone-flip {
+        color: #fff;
+        float: right;
+        font-size: 10px;position: absolute;
+        padding-left: 200px;
+        margin-top: 8px;
+    }
+
+    .fa-share-nodes {
+        color: #fff;
+        float: right;
+        font-size: 10px;
+        position: absolute;
+        padding-left: 250px;
+        margin-top: 8px;
+    }
+
+    .eng {
+        float: right;
+        color: white;
+        font-size: 10px;
+        margin-right: 30px;
+        margin-top: 8px;
+    }
+
+    .Homer {
+        height: 280px;
+        width: 280px;
+        border-radius: 280px;
+        background-color: white;
+        color: black;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+
+div.Div1 {
+    background: rgba(0, 0, 0, 5);
+    height: 20px;
+    width: 10px;
+    background-position: cover;
+    
+
+    
+}
+h3 {
+    text-align: right;
+    color: white;
+    font-family: monospace;
+}
+
+    .head3 {
+        font-size: 2em;
+        color: white;
+        user-select: none;
+    }
+        
+
+
+
+div.Div2 {
+    background-image: url(../fashion-portrait-beautiful-sexy-young-adult-blond-woman-model-wearing-black-erotic-lingerie-lying-bed-sunset.jpg);
+    height: 800px;
+    width: 100%;
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+}
+
+body {
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+
+h2 {
+    color: white;
+    text-align: center;
+}
+h1 {
+    text-align: left;
+    margin-left: 150px;  
+    }
+
+div, .lineA {
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    margin-top: -1px;
+    font-size: 35px;
+}
+
+h6 {
+    margin-top: -45px;
+    font-size: 35px;
+    margin-left: -200px;
+}
+
+p {
+    text-align: left;
+    margin-left: 150px;
+
+}
+p.PONE {
+    text-align: center;
+    color: white;
+   
+}
+P.PTWO {
+color: white;
+text-align: right;
+font-family: monospace;
+font-size: large;
+
+}
+.H1, H2 ,H3 ,H4, H5 {
+    margin-left: 150px;
+}
+
+
+table , th , td {
+width: 250px;
+height: 40px;
+border-style:  dotted;
+border-collapse: collapse;
+margin-left: 820px;
+}
+
+
+.Bcontainer {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+
+}
+
+.button1 {
+    padding: 5px 10px;
+    margin-left: 140px;
+    margin-right: 50px;
+    background-color: #fff;
+    color: #000;
+    border: 100px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.button1:hover {
+    background-color: aqua;
+}
+.button2:hover {
+    background-color: green;
+}
+
+.fa-arrow-up-right {
+    color: #786b6bcc;
+    float: right;
+    margin-left: 20px; 
+    margin-top: 0px;
+}
+
+.button2 {
+    padding: 5px 10px;
+    margin-left: -30px;
+    margin-right: 130px;
+    background-color: #000000cc;
+    color: white;
+    border: 100px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+    
+    
+/* }
+.button .Bt {
+    margin-right: 700px;
+    height: 18px;
+    width: 100px;
+    color: #000;
+} */
+
+
+
+/* .button .Bt11 {
+    margin-left: 690px;
+    height: 18px;
+    width: 100px;
+    color: black;
+    margin-top: -750px;
+} */
+
+.diva , .Service1 {
+    padding-top: 50px;
+}
+
+.div , .G1 , .Husband , .Wife {
+    float: left;
+    margin-left: 20px;
+    width: 150px;
+    height: 300px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.main{
+margin-left: 170px;
+}
+
+.Recent_project {
+    height: 700px;
+    background-image: url(../plainP.jpg);
+    margin-top: 30px;
+ }
+
+ .Recent_project p b{
+    font-size: 70px;
+    padding-left: 80px;
+    font-family: fantasy;
+    color: #000;
+ }
+
+ .Recent_project p {
+    font-size: 10px;
+    color: #000;
+    
+ }
+
+ .Recent_project .Project b{
+    font-size: 120px;
+    padding-top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke:0.1px black;
+ }
+
+ .Div_img img{
+    height: 150px;
+    width: 200px;
+    float: left;
+    border: 1px solid brown;
+    margin-left: 10px;
+    border-radius: 8px;
+ }
+
+ .Div_img {
+    padding-left: 22px;
+    margin-top: 50px;
+ }
+
+ .Mum {
+    margin-top: -50px;
+    background-color:rgb(174, 173, 173);
+    height: 440px;
+ }
+
+ .imade {
+padding-top: 10px;
+padding-bottom: 10px;
+  border: 2px solid black;
+  width: 350px;
+  background-color: #fff;
+  /* height: 200px; */
+
+ }
+  .imade b{
+    text-align: left; 
+    margin-left:-270px;
+    font-size: 70px;
+    color: #000;
+ 
+    
+ }
+ .imade p{
+    font-size: 12px;
+    margin-left:30px;
+    margin-top: -35px;
+ }
+ .Mum h3{
+   padding-top: 50px;
+    text-align: center;
+    margin-left: -40px;
+    font-family: fantasy;
+    font-size: 40px;
+    color: black;
+ }
+
+ .Roundimg {
+    width: 90px;
+    height: 90px;
+    border-radius: 90px;
+    text-align: center;
+   /* margin-top: -110px; */
+   margin-left: -25px;
+   top: 2010px;
+   position: absolute;
+   transform: translateX(-50%);
+   
+    
+ }
+
+ .babyg{
+    color: #000;
+    font-size: small;
+    text-align: center;
+    margin-top: -190px;
+    margin-right: 50px;
+ }
+
+ .www {
+    color: rgb(239, 239, 239);
+    font-size: small;
+    text-align: center;
+    margin-right: 40px;
+    margin-top: -29px;
+ }
+
+ .ww1 {
+    color: #fff;
+    font-size: 5px;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: -12px;
+ }
+
+.fa-star {
+    color: #000;
+    float: left;
+    margin-top: -15px;
+    
+ }
+
+ .Review {
+    color: rgb(246, 242, 242);
+    font-size: small;
+    text-align: left -100px;
+    margin-right: -10px;
+ }
+
+ .fa-circle-arrow-right  {
+    color: black;
+    float: right;
+    margin-left: 20px;
+    margin-top: -10px;
+ }
+
+ .fa-circle-arrow-left {
+    float: right;
+    margin-left: 20px;
+    margin-top: -10px;
+    color: #786b6bcc;
+ }
+
+ .Final {
+    background-image: url(plainP.jpg);
+    height: 270px;
+    margin-top: 240px;
+     }
+    
+    
+
+ .FH {
+    color: black;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 200px;
+    position: absolute;
+    /* margin-right: 180px; */
+    padding-left: 350px;
+ }
+
+ .Write {
+    color: #000;
+    text-align: center;
+    margin-top: 60px;
+    position: absolute;
+    padding-left: 400px;
+ }
+
+ .long-button-container {
+    text-align: center;
+
+ }
+
+ textarea {
+    width: 40%;
+    height: 10px;
+    padding: 10px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: -180px;
+ }
+
+ .NewB {
+    padding: 5px 10px;border: none;
+    font-size: small;
+    background-color: #000;
+    color: #fff;
+    position: absolute;
+    margin-top: 86px;
+    width: 10%;
+    height: 21px;
+    margin-left: 160px;
+    padding-top: -15px;
+ }
+
+ .Pline {
+    color: gray;
+    padding-top: 100px;
+    margin-left: 230px;
+ }
+
+ 
+ .NewNav {
+    background-color: transparent;
+    color: #000;
+    width: 100%;
+    position: absolute;
+    justify-content: space-between;
+    padding-top: 5px;
+ }
+
+ .NewNav a {
+    color: #000;
+ }
+
+.NewNav .Special-link {
+    height: 30px;
+    width: 300px;
+    border-radius: 300px;
+    font-size: 15px;
+    color: white;
+    background-color: #000;
+    padding-left: 40px;
+    padding-left: 25px;
+    
+ }
+
+ .fa-copyright {
+    float: right;
+    font-size: 5px;
+    margin-right: 50px;
+    margin-top: 5px;
+ }
+
+ #icon-1 {
+    margin-left: -100px;
+ }
+
+ #icon-1 {
+    position: absolute;
+    margin-left: 500px;
+    color: #000;
+    font-size: 50px;
+ }
+
+
+ .fa-arrows-up-down-left-right {
+    float: right;
+    font-size: 20px;
+    color: transparent rgb(11, 11, 11);
+    margin-right: 150px;
+    margin-top: 25px;
+ }
+
+
